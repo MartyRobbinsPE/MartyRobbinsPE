@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MartyRobbinsPE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Civil Engineer, Roadway Designer, Standards & Review, and in house developer for [Bentley](https://www.Bentley.com) [OpenRoads Designer](https://www.bentley.com/en/products/brands/openroads/).
 
-<!---
-MartyRobbinsPE/MartyRobbinsPE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+**[Linkedin](https://www.linkedin.com/in/marty-robbins-610572176/)**
